@@ -1,3 +1,7 @@
+## 🐍 Contribution Snake
+
+![snake](https://github.com/Anuragkumarbhot/Anuragkumarbhot/blob/main/dist/github-contribution-grid-snake.svg)
+
 # Hi 👋 I'm Anurag
 
 🚀 Full Stack Developer  
