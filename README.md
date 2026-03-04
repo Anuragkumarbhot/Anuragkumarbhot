@@ -16,7 +16,7 @@ Features:
 - Next.js frontend
 - Premium UI design
 - Product pages
-- Collection system
+- Collection Anuragkumarbhot
 - Vercel deployment
 
 ---
