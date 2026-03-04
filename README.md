@@ -47,7 +47,7 @@ Features:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumarbhot&layout=compact&theme=dark)
 
----
+--- 
 
 ## 🚀 Future Goals
 
