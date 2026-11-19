@@ -25,12 +25,12 @@ I build engineering systems and software that connect the physical and digital w
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="assets/warppoint.svg" width="100%" alt="WARPPOINT cover"><h3><a href="https://github.com/Anuragkumarbhot/WARPPOINT">WARPPOINT</a></h3><p>3D sci-fi space combat and planetary warfare in Unreal Engine.</p><code>Unreal Engine</code> <code>C++</code> <code>6-DOF</code> <code>PCG</code></td>
+<td width="50%" valign="top"><img src="assets/warppoint.svg" width="100%" alt="WARPPOINT cover"><h3><a href="https://github.com/Anuragkumarbhot/Warppoint-">WARPPOINT</a></h3><p>3D sci-fi space combat and planetary warfare in Unreal Engine.</p><code>Unreal Engine</code> <code>C++</code> <code>6-DOF</code> <code>PCG</code></td>
 <td width="50%" valign="top"><img src="assets/apex-cps.svg" width="100%" alt="Apex-CPS cover"><h3><a href="https://github.com/Anuragkumarbhot/apex-cps-actuator">Apex-CPS</a></h3><p>Cyber-physical dual-axis robotic actuator system and teleoperation dashboard.</p><code>STM32</code> <code>FOC</code> <code>CAN</code> <code>WebGL</code></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="assets/aoi-vision.svg" width="100%" alt="AOI Vision Terminal cover"><h3><a href="https://github.com/Anuragkumarbhot/aoi-supermarket-vision-terminal">AOI Supermarket Vision Terminal</a></h3><p>Automated optical-inspection inventory workflow using detection, OCR, voice feedback, and IoT triggers.</p><code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>Tesseract</code></td>
-<td width="50%" valign="top"><img src="assets/liftarena.svg" width="100%" alt="LiftArena cover"><h3><a href="https://github.com/Anuragkumarbhot/liftarena">LiftArena & AI Powerlifting Coach</a></h3><p>Competition logging, DOTS/Wilks scoring, attempt selection, and analytics.</p><code>Node.js</code> <code>Express</code> <code>React</code> <code>Chart.js</code></td>
+<td width="50%" valign="top"><img src="assets/liftarena.svg" width="100%" alt="LiftArena cover"><h3><a href="https://github.com/Anuragkumarbhot/ai-powerlifting-coach">LiftArena & AI Powerlifting Coach</a></h3><p>Competition logging, DOTS/Wilks scoring, attempt selection, and analytics.</p><code>Node.js</code> <code>Express</code> <code>React</code> <code>Chart.js</code></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="assets/vortex-velocity.svg" width="100%" alt="Vortex Velocity cover"><h3><a href="https://github.com/Anuragkumarbhot/vortex-velocity">Vortex Velocity</a></h3><p>3D arcade racing experience with procedural audio.</p><code>Three.js</code> <code>Web Audio API</code> <code>JavaScript</code></td>
