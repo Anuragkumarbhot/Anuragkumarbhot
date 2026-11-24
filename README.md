@@ -25,7 +25,7 @@ I build engineering systems and software that connect the physical and digital w
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Anuragkumarbhot/Anuragkumarbhot/main/assets/warppoint.svg" width="100%" alt="WARPPOINT cover"><h3><a href="https://github.com/Anuragkumarbhot/Warppoint-">WARPPOINT</a></h3><p>3D sci-fi space combat and planetary warfare in Unreal Engine.</p><code>Unreal Engine</code> <code>C++</code> <code>6-DOF</code> <code>PCG</code></td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Anuragkumarbhot/Anuragkumarbhot/main/assets/warppoint-cover.jpg" width="100%" alt="WARPPOINT cover"><h3><a href="https://github.com/Anuragkumarbhot/Warppoint-">WARPPOINT</a></h3><p>3D sci-fi space combat and planetary warfare in Unreal Engine.</p><code>Unreal Engine</code> <code>C++</code> <code>6-DOF</code> <code>PCG</code></td>
 <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/Anuragkumarbhot/Anuragkumarbhot/main/assets/apex-cps-cover.jpg" width="100%" alt="Apex-CPS cover"><h3><a href="https://github.com/Anuragkumarbhot/apex-cps-actuator">Apex-CPS</a></h3><p>Cyber-physical dual-axis robotic actuator system and teleoperation dashboard.</p><code>STM32</code> <code>FOC</code> <code>CAN</code> <code>WebGL</code></td>
 </tr>
 <tr>
