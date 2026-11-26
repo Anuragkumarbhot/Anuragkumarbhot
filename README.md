@@ -43,8 +43,8 @@ I build engineering systems and software that connect the physical and digital w
 | Domain | Technologies |
 |---|---|
 | Systems & Embedded | C/C++, STM32, ESP32, CAN, FOC, FreeRTOS, IoT |
-| 3D & Simulation | Unreal Engine, Three.js, Godot, physics simulation, PCG |
-| AI & Computer Vision | Python, YOLOv8, OpenCV, Tesseract OCR, LLM pipelines |
+| 3D & Simulation | Godot, Three.js, 3D environments, physics simulation, procedural systems |
+| AI & Computer Vision | Python, OpenCV, Pillow, Tesseract OCR, LLM pipelines |
 | Full-Stack Web | JavaScript, TypeScript, Node.js, Express, React, Next.js, PostgreSQL, MongoDB |
 
 ## GitHub Activity
